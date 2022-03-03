@@ -1,5 +1,5 @@
 # PABCL_UI-UX-Main
-UI/UX
+Figma
 https://www.figma.com/file/3YsaCyNYoTHYe7s21H3ZSp/Dibayarin?node-id=0%3A1
 
 Behance
