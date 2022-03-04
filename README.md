@@ -1,8 +1,8 @@
 # PABCL_UI-UX-Main
-Nama
+Nama : 
 Mochammad Alif Aditya Putra
 
-NIM
+NIM : 
 10121083
 
 Link :
